@@ -1,8 +1,4 @@
 #VARIÁVEIS INDEXADAS
-<<<<<<< HEAD
-listas tuplas
-=======
->>>>>>> 86034f6b77d67f779911775460a6df48ba9f50dc
 
 lista = (1,2,3,4,5,6,7,8,9)
 for 1 in lista:
