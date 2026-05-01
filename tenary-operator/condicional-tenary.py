@@ -62,8 +62,7 @@ print("Fim do processo de troca de pneu!")
 
 
 
-#Outro exemplo
-
+#OUTRO EXEMPLO
 #INÍCIO
 enquanto not(LocalLivreSeguro): # type: ignore
 escreva("Hello, World!")
